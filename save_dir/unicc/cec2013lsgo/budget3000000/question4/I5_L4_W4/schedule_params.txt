@@ -1,3 +1,0 @@
-interval: 5
-assembly_line_num: 4
-worker_num: 4
