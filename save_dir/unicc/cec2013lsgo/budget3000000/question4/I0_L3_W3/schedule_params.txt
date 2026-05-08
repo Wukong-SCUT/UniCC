@@ -1,0 +1,3 @@
+interval: 0
+assembly_line_num: 3
+worker_num: 3
